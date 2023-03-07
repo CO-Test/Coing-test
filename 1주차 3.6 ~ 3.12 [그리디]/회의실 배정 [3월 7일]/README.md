@@ -1,5 +1,5 @@
 # 회의실 배정
-====
+
 - 문제링크 : https://www.acmicpc.net/problem/1931
 
 
